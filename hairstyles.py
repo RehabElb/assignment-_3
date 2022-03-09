@@ -15,15 +15,6 @@ print('Average Haircut Price:', average_price)
 new_prices = [x - 5 for x in prices] # list comprehension --every value/element of the list prices should be $5 less and create new_prices list
 print(new_prices)
 
-# new_prices2 = []  
-# for x in prices:      #with for loop
-#   x -= 5
-#   new_prices2.append(x)
-
-# print(new_prices2)
-  
-# print(total_price)
-
 
 
 total_revenue = 0
